@@ -27643,8 +27643,5 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.TiledBg.prototype.acts.SetOpacity,
 	cr.system_object.prototype.exps["int"],
 	cr.system_object.prototype.cnds.IsNaN,
-	cr.behaviors.Bullet.prototype.acts.SetAngleOfMotion,
-	cr.plugins_.CordovaAdmobFree.prototype.acts.removeBanner,
-	cr.plugins_.CordovaAdmobFree.prototype.acts.showInterstitial,
-	cr.plugins_.CordovaAdmobFree.prototype.acts.showBanner
+	cr.behaviors.Bullet.prototype.acts.SetAngleOfMotion
 ];};
